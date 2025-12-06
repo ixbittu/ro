@@ -32,7 +32,7 @@ class BUTTONS(object):
     ],
     [
         
-        InlineKeyboardButton("˹ ᴘʀɪᴠᴧᴄʏ ˼", url="https://telegra.ph/Privacy-Policy--Purvi-Bots-by-ALPHA-BABY-08-06"),
+        InlineKeyboardButton("˹ ᴅᴘ sᴛʏʟɪsʜ  ˼", url="https://t.me/DpStylish"),
         InlineKeyboardButton("• ʙᴧᴄᴋ •", callback_data="settingsback_helper"),
     ]
     ]
@@ -42,7 +42,7 @@ class BUTTONS(object):
     INFO_NEW = [
     [
         InlineKeyboardButton("• ʙᴧᴄᴋ •", callback_data="settings_back_helper"),
-        InlineKeyboardButton("• ᴛᴜᴛᴏʀɪᴀʟ ᴠɪᴅᴇᴏ •", url="https://t.me/Careless_Coder/20")
+        InlineKeyboardButton("• sᴛʏʟɪsʜ ғᴏɴᴛ •", url="https://t.me/NameBioFont")
     ],
     ]
     
