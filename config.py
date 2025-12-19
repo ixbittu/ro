@@ -23,8 +23,8 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 # ======================================================
 OWNER_ID = int(getenv("OWNER_ID", 7473021518))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "TheSigmacoder")
-BOT_USERNAME = getenv("BOT_USERNAME", "SonaliMusicBot")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Itzz_Istkhar")
+BOT_USERNAME = getenv("BOT_USERNAME", "Sukku_Music_Bot")
 BOT_NAME = getenv("BOT_NAME", "Sonali Music")
 ASSUSERNAME = getenv("ASSUSERNAME")
 
@@ -34,7 +34,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", -1002141133985))
 
 API_URL = getenv("API_URL", 'https://pytdbotapi.thequickearn.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("30DxNexGenBots25e6d9", None) # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
+API_KEY = getenv("NxGBNexGenBotsc75140", None) # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
 
 # ======================================================
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
@@ -53,13 +53,13 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # ======================================================
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/ixrocky/ROCKY-MUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/ISTKHAR-CODER786/sukku")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # ======================================================
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ROCKYXUPDATE")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ROCKYXSUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/IamIstkhar")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+o2KCCTlEibAwM2Vl")
 
 # ======================================================
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "1c21247d714244ddbb09925dac565aed")
