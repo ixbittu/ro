@@ -1,41 +1,14 @@
-# ===========================================================
-# ©️ 2025-26 All Rights Reserved by Team Rocky (Im-Notcoder) 🚀
-# 
-# This source code is under MIT License 📜
-# ❌ Unauthorized forking, importing, or using this code
-#    without giving proper credit will result in legal action ⚠️
-# 
-# 📩 DM for permission : @MrRockytg
-# ===========================================================
-
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram import Client, filters, enums 
-import config
 
 class BUTTONS(object):
     ABUTTON = [
     [
-        InlineKeyboardButton("˹ sυᴘᴘσʀᴛ ˼", url="https://t.me/+xfr6-ZOTaZVmODU1"),
-        InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url="https://t.me/IamIstkhar")
+        InlineKeyboardButton("˹ sυᴘᴘσʀᴛ ˼", url="https://t.me/+IvUyIY_vMY1jOTdl"),
+        InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url="https://t.me/ARISHFA_UPDATE")
     ],
     [
-        InlineKeyboardButton(text="˹ ❍ᴡηєʀ ˼", user_id=config.OWNER_ID),
-        InlineKeyboardButton("• ʙᴧᴄᴋ •", callback_data="settingsback_helper")
-    ]
-]
-
-    INFO_BUTTON = [
-    [
-        InlineKeyboardButton("˹ ʀєᴘσ ˼", callback_data="gib_source"),
-        InlineKeyboardButton("˹ ʏᴛ-ᴀᴘɪ ˼", callback_data="bot_info_data"),
         InlineKeyboardButton("˹ ʟᴧηɢᴜᴧɢє ˼", callback_data="LG"),
-    ],
-   
-
-# ===========================================================
-# ©️ 2025-26 All Rights Reserved by Team Rocky (Im-Notcoder) 😎
-# 
-# 🧑‍💻 Developer : t.me/mrrockytg
-# 🔗 Source link : t.me/rockyxsupport
-# 📢 Telegram channel : t.me/rockyxupdate
-# ===========================================================
+        InlineKeyboardButton("˹ ʙᴧᴄᴋ ˼", callback_data=f"settingsback_helper")
+    ]
+    ]
