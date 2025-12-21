@@ -59,7 +59,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # ======================================================
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/IamIstkhar")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+o2KCCTlEibAwM2Vl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+xfr6-ZOTaZVmODU1")
 
 # ======================================================
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "1c21247d714244ddbb09925dac565aed")
