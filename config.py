@@ -33,8 +33,8 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = int(getenv("LOGGER_ID", -1002141133985))
 
 API_URL = getenv("API_URL", 'https://pytdbotapi.thequickearn.xyz') #youtube song url
-VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("NxGBNexGenBotsc75140", None) # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
+VIDEO_API_URL = getenv("NxGBNexGenBotsc3e509", 'https://api.video.thequickearn.xyz')
+API_KEY = getenv("NxGBNexGenBotsc3e509", None) # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
 
 # ======================================================
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
