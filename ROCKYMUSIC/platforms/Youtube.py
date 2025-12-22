@@ -27,9 +27,9 @@ import aiohttp
 import config
 from os import getenv
 
-API_URL = getenv("API_URL", 'https://pytdbotapi.thequickearn.xyz')
+API_URL = getenv("API_URL", 'https://api3.nexgenbots.xyz')
 API_KEY = getenv("API_KEY", 'NxGBNexGenBotsc3e509')
-VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
+VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api3.nexgenbots.xyz')
 
 def cookie_txt_file():
     cookie_dir = f"{os.getcwd()}/cookies"
