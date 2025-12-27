@@ -22,11 +22,11 @@ from ROCKYMUSIC.utils.database import (
     remove_active_video_chat,
     set_loop,
 )
-from SHUKLAMUSIC.utils.exceptions import AssistantErr
-from SHUKLAMUSIC.utils.formatters import check_duration, seconds_to_min, speed_converter
-from SHUKLAMUSIC.utils.inline.play import stream_markup
-from SHUKLAMUSIC.utils.stream.autoclear import auto_clean
-from SHUKLAMUSIC.utils.thumbnails import get_thumb as gen_thumb
+from ROCKYMUSIC.utils.exceptions import AssistantErr
+from ROCKYMUSIC.utils.formatters import check_duration, seconds_to_min, speed_converter
+from ROCKYMUSIC.utils.inline.play import stream_markup
+from ROCKYMUSIC.utils.stream.autoclear import auto_clean
+from ROCKYMUSIC.utils.thumbnails import get_thumb as gen_thumb
 from strings import get_string
 
 autoend = {}
