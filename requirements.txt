@@ -11,7 +11,7 @@ motor
 pillow==9.5.0
 py-tgcalls==0.9.7
 pykeyboard
-pyrogram==2.0.106
+pyrofork
 tgcrypto
 python-dotenv
 pyyaml==6.0.1
