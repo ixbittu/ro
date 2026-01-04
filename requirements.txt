@@ -9,7 +9,7 @@ heroku3
 apscheduler
 motor
 pillow==9.5.0
-py-tgcalls
+pytgcalls==3.0.0.dev24
 pykeyboard
 pyrofork
 tgcrypto
@@ -18,7 +18,6 @@ pyyaml==6.0.1
 requests
 speedtest-cli
 spotipy
-tgcrypto
 unidecode
 yt-dlp
 youtube-search
